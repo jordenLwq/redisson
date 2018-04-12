@@ -1,19 +1,15 @@
-package org.mvnsearch.spring.boot.redisson.demo;
+/*package org.mvnsearch.spring.boot.redisson.demo;
 
-import org.mockito.asm.tree.TryCatchBlockNode;
-import org.redisson.api.RLock;
 import org.redisson.api.RedissonClient;
-
-import java.util.concurrent.TimeUnit;
 
 class LockThread  extends   Thread{
 
     private String LockThread;
     private RedissonClient redissonClient;
 
-    /**
+    *//**
      * 分布式锁
-     */
+     *//*
     private  static final  String REDISLOCK_="SpringbOOTredisLock_";
 
    public  LockThread(){
@@ -34,4 +30,4 @@ class LockThread  extends   Thread{
 
 
     }
-}
+}*/

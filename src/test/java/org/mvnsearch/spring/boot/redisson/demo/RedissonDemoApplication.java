@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * redisson demo application
  *
- * @author linux_china
  */
 @SpringBootApplication
 public class RedissonDemoApplication {
